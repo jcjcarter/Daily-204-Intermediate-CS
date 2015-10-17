@@ -1,0 +1,6 @@
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 204 Intermediate CS\Daily 204 Intermediate CS\bin\Debug\Daily 204 Intermediate CS.exe.config
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 204 Intermediate CS\Daily 204 Intermediate CS\bin\Debug\Daily 204 Intermediate CS.exe
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 204 Intermediate CS\Daily 204 Intermediate CS\bin\Debug\Daily 204 Intermediate CS.pdb
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 204 Intermediate CS\Daily 204 Intermediate CS\obj\Debug\Daily 204 Intermediate CS.csprojResolveAssemblyReference.cache
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 204 Intermediate CS\Daily 204 Intermediate CS\obj\Debug\Daily 204 Intermediate CS.exe
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 204 Intermediate CS\Daily 204 Intermediate CS\obj\Debug\Daily 204 Intermediate CS.pdb
